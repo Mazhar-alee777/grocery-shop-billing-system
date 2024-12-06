@@ -1,0 +1,7 @@
+--- Grocery Shop Bill ---
+Item      Category    Qty       Price     Total     
+Yogurt    Dairy       5         50.00     250.00    
+Spinach   Vegetables  6         30.00     180.00    
+----------------------
+Total Bill: Rs. 430.00
+Thank you for shopping with us!
